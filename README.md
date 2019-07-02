@@ -1,7 +1,7 @@
 # pwa-template
 Alternative guideline to structuring your progressive web app.
 
-### app structure in the `app/`
+### app structure in the `app/` directory.
 
 
 ```bash
@@ -11,9 +11,6 @@ Alternative guideline to structuring your progressive web app.
 |          ├── images
 |          ├── styles
 |          ├── images
-
-
-
 |       ├── pages
 │       ├── index.html
 │       ├── app.webmanifest
