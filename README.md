@@ -1,2 +1,2 @@
-# web-template
-Alternative guideline to structuring your web app
+# pwa-template
+Alternative guideline to structuring your progressive web app.
